@@ -1,4 +1,4 @@
-import { Inngest } from './client'
+import { Inngest } from './client';
 import prisma from '@/lib/prisma'
 
 
